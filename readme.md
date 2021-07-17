@@ -17,36 +17,36 @@
 
 <h3>Tela Principal:</h3><br>
 
-![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/tree/main/capturas/tela_principal.PNG)
+![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/blob/main/capturas/tela_principal.PNG)
 
 <br>
 
 <h3>Pesquisa por nome:</h3><br>
 
-![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/tree/main/capturas/pesquisa_por_nome.PNG)
+![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/blob/main/capturas/pesquisa_por_nome.PNG)
 
 <br>
 
 <h3>Erro na pesquisa por nome:</h3><br>
 
-![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/tree/main/capturas/erro_pesquisa_nome.PNG)
+![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/blob/main/capturas/erro_pesquisa_nome.png)
 
 <br>
 
 <h3>Pesquisa por nível:</h3><br>
 
-![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/tree/main/capturas/pesquisa_por_nivel_01.PNG)
+![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/blob/main/capturas/pesquisa_por_nivel_01.PNG)
 
 <br>
 
 <h3>Pesquisa por nível:</h3><br>
 
-![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/tree/main/capturas/pesquisa_por_nivel_02.PNG)
+![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/blob/main/capturas/pesquisa_por_nivel_02.PNG)
 
 <br>
 
 <h3>Erro na pesquisa por nível:</h3><br>
 
-![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/tree/main/capturas/erro_pesquisa_nivel.PNG)
+![Screenshot](https://github.com/Tarcisio-Souto/php_api_digimon/blob/main/capturas/erro_pesquisa_nivel.png)
 
 <br>
